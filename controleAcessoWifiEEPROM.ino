@@ -8,6 +8,7 @@
 .    ____________________________________________________________________________________________________________________________________
 .
 .    Este código é um exemplo de controle de acesso utilizando a biblioteca MFRC522.h, ESP8266, RFID-RC522, relé e uma Fechadura Elétrica
+.    Para mais informações: https://github.com/pedrohborin/accessControl
 .
 .    Fluxo de trabalho:
 .
